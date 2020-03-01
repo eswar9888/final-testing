@@ -9,4 +9,4 @@ error test
 
 error test2
 
-error final testing 
+error final testing sameline
